@@ -2,4 +2,4 @@ print('aaa')
 
 print('bbb')
 
-print('This is version B')
+print('This is version C')
