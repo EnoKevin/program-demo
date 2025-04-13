@@ -13,3 +13,5 @@ print('Pull Requestのテスト２')
 print('オンラインでdemo.pyを変更しました')
 
 print('Fetchを使ってみる')
+
+print('久々に使ってみる')
